@@ -1,4 +1,4 @@
-# vue-mart
+# vue-mart 搭建一个简单vue2电商项目
 
 ## Project setup
 ```
